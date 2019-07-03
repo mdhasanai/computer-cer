@@ -7,8 +7,7 @@ This repository contains necessary to approximate the CER of a transcript. First
 
 First install editdistance packages using pip
 
-'''
+```
 pip install editdistance
-
-'''
+```
 
